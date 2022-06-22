@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "decompTumor2Sig"]
+	path = decompTumor2Sig
+	url = https://github.com/rmpiro/decomptumor2sig
+	shallow = true
+	registered = true
